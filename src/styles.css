@@ -32,7 +32,7 @@ li:first-letter {
 }
 
 .weather-app-wrapper {
-  max-width: 600px;
+  max-width: 700px;
   margin: 30px auto;
 }
 
@@ -98,5 +98,9 @@ li:first-letter {
   max-width: 25%;
 }
 .p-0 {
-  padding: 0;
+  padding: 10px;
+}
+
+.col-9 {
+  padding: 10px;
 }
