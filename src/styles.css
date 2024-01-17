@@ -32,7 +32,7 @@ p:first-letter {
   padding: 20px;
   border: 1px solid #7a838d;
   border-radius: 5px;
-  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/103/272/original/night.png?1699385042);
+  background-color: navy;
 }
 
 .overview {
